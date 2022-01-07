@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago Sánchez</h1>
-<h3 align="center">A passionate backend developer from Ecuador</h3>
+<h3 align="center">A passionate developer from Ecuador</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssan92&label=Profile%20views&color=0e75b6&style=flat" alt="ssan92" /> </p>
 
